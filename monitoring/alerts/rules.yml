@@ -1,0 +1,57 @@
+groups:
+  - name: photo-bg-remover
+    interval: 30s
+    rules:
+      - alert: BackendDown
+        expr: up{job="backend"} == 0
+        for: 30s
+        labels:
+          severity: critical
+        annotations:
+          summary: "Backend is down"
+          description: "Backend service has been unreachable for 30s."
+
+      - alert: WorkerDown
+        expr: up{job="worker"} == 0
+        for: 30s
+        labels:
+          severity: critical
+        annotations:
+          summary: "Worker is down"
+          description: "Worker service has been unreachable for 30s."
+
+      - alert: HighErrorRate
+        expr: rate(http_requests_total{status=~"5.."}[5m]) / rate(http_requests_total[5m]) > 0.05
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High HTTP error rate ({{ $value | humanizePercentage }})"
+          description: "Error rate is above 5% for the last 2 minutes."
+
+      - alert: HighLatency
+        expr: histogram_quantile(0.95, rate(http_request_duration_seconds_bucket[5m])) > 30
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High request latency (P95: {{ $value }}s)"
+          description: "P95 request latency exceeds 30s for 2 minutes."
+
+      - alert: JobFailures
+        expr: rate(worker_jobs_total{status="failed"}[5m]) > 0
+        for: 1m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Background removal jobs failing"
+          description: "Jobs are failing at rate {{ $value }} failures/s over 1m."
+
+      - alert: QueueBacklog
+        expr: aws_sqs_approximate_number_of_messages_delayed > 10
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "SQS queue backlog detected"
+          description: "More than 10 messages delayed in SQS queue."

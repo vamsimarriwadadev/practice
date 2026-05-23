@@ -1,0 +1,751 @@
+2026-05-20 19:54:49,686 | INFO | app.main | Starting up...
+2026-05-20 20:04:20,404 | INFO | app.main | Shutting down...
+2026-05-20 20:04:20,406 | INFO | app.main | stopping server
+2026-05-20 20:06:04,201 | INFO | app.main | Starting up...
+2026-05-20 20:38:05,611 | INFO | app.main | Shutting down...
+2026-05-20 20:38:05,611 | INFO | app.main | stopping server
+2026-05-20 20:38:06,956 | INFO | app.main | Starting up...
+2026-05-20 20:38:17,923 | INFO | app.main | Shutting down...
+2026-05-20 20:38:17,923 | INFO | app.main | stopping server
+2026-05-20 20:38:19,281 | INFO | app.main | Starting up...
+2026-05-20 20:38:33,188 | INFO | app.main | Shutting down...
+2026-05-20 20:38:33,188 | INFO | app.main | stopping server
+2026-05-20 20:38:34,493 | INFO | app.main | Starting up...
+2026-05-20 20:45:50,393 | INFO | app.main | Shutting down...
+2026-05-20 20:45:50,393 | INFO | app.main | stopping server
+2026-05-20 20:45:51,819 | INFO | app.main | Starting up...
+2026-05-20 20:46:22,699 | INFO | app.main | Shutting down...
+2026-05-20 20:46:22,699 | INFO | app.main | stopping server
+2026-05-20 21:46:09,804 | INFO | app.main | Starting up...
+2026-05-20 21:47:18,872 | INFO | app.main | Shutting down...
+2026-05-20 21:47:18,872 | INFO | app.main | stopping server
+2026-05-20 21:47:20,167 | INFO | app.main | Starting up...
+2026-05-20 21:47:25,664 | INFO | app.main | Shutting down...
+2026-05-20 21:47:25,664 | INFO | app.main | stopping server
+2026-05-20 21:47:26,939 | INFO | app.main | Starting up...
+2026-05-20 21:47:45,447 | INFO | app.main | Shutting down...
+2026-05-20 21:47:45,447 | INFO | app.main | stopping server
+2026-05-20 21:47:46,669 | INFO | app.main | Starting up...
+2026-05-20 21:52:14,644 | INFO | app.main | Shutting down...
+2026-05-20 21:52:14,644 | INFO | app.main | stopping server
+2026-05-20 21:52:16,082 | INFO | app.main | Starting up...
+2026-05-20 22:38:44,094 | INFO | app.main | Shutting down...
+2026-05-20 22:38:44,094 | INFO | app.main | stopping server
+2026-05-20 22:38:45,294 | INFO | app.main | Starting up...
+2026-05-20 22:43:20,091 | INFO | app.main | Shutting down...
+2026-05-20 22:43:20,092 | INFO | app.main | stopping server
+2026-05-20 22:43:22,346 | INFO | app.main | Starting up...
+2026-05-20 22:48:11,584 | INFO | app.main | Shutting down...
+2026-05-20 22:48:11,584 | INFO | app.main | stopping server
+2026-05-20 22:48:14,182 | INFO | app.main | Starting up...
+2026-05-20 22:48:21,525 | INFO | app.main | Shutting down...
+2026-05-20 22:48:21,526 | INFO | app.main | stopping server
+2026-05-20 22:48:23,465 | INFO | app.main | Starting up...
+2026-05-20 22:59:00,046 | INFO | app.main | Shutting down...
+2026-05-20 22:59:00,046 | INFO | app.main | stopping server
+2026-05-20 22:59:01,708 | INFO | app.main | Starting up...
+2026-05-20 23:00:00,181 | INFO | app.main | Shutting down...
+2026-05-20 23:00:00,182 | INFO | app.main | stopping server
+2026-05-20 23:00:01,422 | INFO | app.main | Starting up...
+2026-05-20 23:00:07,360 | INFO | app.main | Shutting down...
+2026-05-20 23:00:07,360 | INFO | app.main | stopping server
+2026-05-20 23:00:08,543 | INFO | app.main | Starting up...
+2026-05-20 23:00:29,956 | INFO | app.main | Shutting down...
+2026-05-20 23:00:29,957 | INFO | app.main | stopping server
+2026-05-20 23:00:31,219 | INFO | app.main | Starting up...
+2026-05-20 23:01:53,569 | INFO | app.main | Shutting down...
+2026-05-20 23:01:53,569 | INFO | app.main | stopping server
+2026-05-20 23:01:54,869 | INFO | app.main | Starting up...
+2026-05-20 23:07:02,862 | INFO | app.main | Shutting down...
+2026-05-20 23:07:02,862 | INFO | app.main | stopping server
+2026-05-20 23:07:04,263 | INFO | app.main | Starting up...
+2026-05-20 23:07:12,173 | INFO | app.main | Shutting down...
+2026-05-20 23:07:12,173 | INFO | app.main | stopping server
+2026-05-20 23:07:13,860 | INFO | app.main | Starting up...
+2026-05-20 23:07:44,294 | INFO | app.main | Shutting down...
+2026-05-20 23:07:44,295 | INFO | app.main | stopping server
+2026-05-20 23:07:45,711 | INFO | app.main | Starting up...
+2026-05-20 23:07:53,619 | INFO | app.main | Shutting down...
+2026-05-20 23:07:53,620 | INFO | app.main | stopping server
+2026-05-20 23:07:55,078 | INFO | app.main | Starting up...
+2026-05-20 23:08:08,976 | INFO | app.main | Starting up...
+2026-05-20 23:09:09,734 | INFO | app.main | Shutting down...
+2026-05-20 23:09:09,734 | INFO | app.main | stopping server
+2026-05-20 23:09:11,310 | INFO | app.main | Starting up...
+2026-05-20 23:09:14,962 | INFO | app.main | Shutting down...
+2026-05-20 23:09:14,962 | INFO | app.main | stopping server
+2026-05-20 23:09:16,678 | INFO | app.main | Starting up...
+2026-05-21 14:35:15,614 | INFO | app.main | Starting up...
+2026-05-21 14:35:30,151 | ERROR | app.main | Failed to auto-create resources: Could not connect to the endpoint URL: "http://localhost:4566/uploads"
+2026-05-21 14:35:34,574 | INFO | app.middleware.logging_middleware | Incoming Request | GET /docs
+2026-05-21 14:35:34,577 | INFO | app.middleware.logging_middleware | Completed Request | GET /docs | Status: 200 | Duration: 0.0027s
+2026-05-21 14:35:35,183 | INFO | app.middleware.logging_middleware | Incoming Request | GET /openapi.json
+2026-05-21 14:35:35,192 | INFO | app.middleware.logging_middleware | Completed Request | GET /openapi.json | Status: 200 | Duration: 0.0095s
+2026-05-21 14:38:43,305 | INFO | app.main | Shutting down...
+2026-05-21 14:38:43,306 | INFO | app.main | stopping server
+2026-05-21 14:38:50,518 | INFO | app.main | Starting up...
+2026-05-21 14:39:01,193 | INFO | app.middleware.logging_middleware | Incoming Request | GET /docs
+2026-05-21 14:39:01,195 | INFO | app.middleware.logging_middleware | Completed Request | GET /docs | Status: 200 | Duration: 0.0027s
+2026-05-21 14:39:01,570 | INFO | app.middleware.logging_middleware | Incoming Request | GET /openapi.json
+2026-05-21 14:39:01,576 | INFO | app.middleware.logging_middleware | Completed Request | GET /openapi.json | Status: 200 | Duration: 0.0065s
+2026-05-21 14:39:35,987 | INFO | app.main | Shutting down...
+2026-05-21 14:39:35,988 | INFO | app.main | stopping server
+2026-05-21 14:39:38,040 | INFO | app.main | Starting up...
+2026-05-21 14:39:39,006 | INFO | app.middleware.logging_middleware | Incoming Request | GET /docs
+2026-05-21 14:39:39,007 | INFO | app.middleware.logging_middleware | Completed Request | GET /docs | Status: 200 | Duration: 0.0009s
+2026-05-21 14:39:39,206 | INFO | app.middleware.logging_middleware | Incoming Request | GET /openapi.json
+2026-05-21 14:39:39,213 | INFO | app.middleware.logging_middleware | Completed Request | GET /openapi.json | Status: 200 | Duration: 0.0073s
+2026-05-21 14:39:46,990 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 14:39:48,241 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 1.251s
+2026-05-21 14:41:35,790 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 14:41:36,763 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.973s
+2026-05-21 14:41:41,648 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 14:41:41,671 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0231s
+2026-05-21 14:41:41,767 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/61776f1e-2328-42f5-bb4b-971636d6dad3/_133006004_modiprofilepic.jpg
+2026-05-21 14:41:41,863 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/61776f1e-2328-42f5-bb4b-971636d6dad3/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0968s
+2026-05-21 14:42:10,338 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 14:42:11,380 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 1.0414s
+2026-05-21 14:42:56,776 | INFO | app.middleware.logging_middleware | Incoming Request | POST /remove-bg
+2026-05-21 14:42:57,134 | INFO | app.middleware.logging_middleware | Completed Request | POST /remove-bg | Status: 200 | Duration: 0.3581s
+2026-05-21 14:43:10,552 | INFO | app.main | Shutting down...
+2026-05-21 14:43:10,563 | INFO | app.main | stopping server
+2026-05-21 14:43:12,875 | INFO | app.main | Starting up...
+2026-05-21 14:43:32,170 | INFO | app.main | Shutting down...
+2026-05-21 14:43:32,171 | INFO | app.main | stopping server
+2026-05-21 14:43:34,163 | INFO | app.main | Starting up...
+2026-05-21 14:43:36,514 | INFO | app.middleware.logging_middleware | Incoming Request | POST /remove-bg
+2026-05-21 14:43:36,721 | INFO | app.middleware.logging_middleware | Completed Request | POST /remove-bg | Status: 200 | Duration: 0.2078s
+2026-05-21 14:55:06,318 | INFO | app.main | Shutting down...
+2026-05-21 14:55:06,318 | INFO | app.main | stopping server
+2026-05-21 15:02:41,655 | INFO | app.main | Starting up...
+2026-05-21 15:02:46,577 | INFO | app.main | Shutting down...
+2026-05-21 15:02:46,577 | INFO | app.main | stopping server
+2026-05-21 15:02:48,538 | INFO | app.main | Starting up...
+2026-05-21 15:03:08,104 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:03:08,778 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.6745s
+2026-05-21 15:03:08,785 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/61776f1e-2328-42f5-bb4b-971636d6dad3/_133006004_modiprofilepic.jpg
+2026-05-21 15:03:08,796 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/61776f1e-2328-42f5-bb4b-971636d6dad3/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0111s
+2026-05-21 15:03:11,445 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 15:03:12,848 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 1.4038s
+2026-05-21 15:03:12,857 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/3bed07cf-093b-49f3-abfb-0ba49af55f1e
+2026-05-21 15:03:12,861 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/3bed07cf-093b-49f3-abfb-0ba49af55f1e | Status: 200 | Duration: 0.0036s
+2026-05-21 15:03:25,430 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:03:25,740 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3095s
+2026-05-21 15:03:25,743 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/61776f1e-2328-42f5-bb4b-971636d6dad3/_133006004_modiprofilepic.jpg
+2026-05-21 15:03:25,751 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/61776f1e-2328-42f5-bb4b-971636d6dad3/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0071s
+2026-05-21 15:06:07,437 | INFO | app.main | Shutting down...
+2026-05-21 15:06:07,438 | INFO | app.main | stopping server
+2026-05-21 15:06:09,858 | INFO | app.main | Starting up...
+2026-05-21 15:06:10,718 | INFO | app.main | Shutting down...
+2026-05-21 15:06:10,718 | INFO | app.main | stopping server
+2026-05-21 15:06:12,737 | INFO | app.main | Starting up...
+2026-05-21 15:15:14,345 | INFO | app.main | Shutting down...
+2026-05-21 15:15:14,346 | INFO | app.main | stopping server
+2026-05-21 15:15:27,556 | INFO | app.main | Starting up...
+2026-05-21 15:30:25,557 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:30:47,849 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:30:50,723 | INFO | app.main | Shutting down...
+2026-05-21 15:30:50,723 | INFO | app.main | stopping server
+2026-05-21 15:30:58,633 | INFO | app.main | Starting up...
+2026-05-21 15:31:17,572 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:31:18,502 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.9292s
+2026-05-21 15:31:23,254 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 15:31:23,276 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0225s
+2026-05-21 15:31:23,353 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:31:23,375 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0226s
+2026-05-21 15:35:24,335 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:35:24,745 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.4097s
+2026-05-21 15:35:24,749 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:35:24,758 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0085s
+2026-05-21 15:35:27,437 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:35:27,759 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3216s
+2026-05-21 15:35:27,763 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:35:27,799 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.036s
+2026-05-21 15:35:31,456 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:35:31,767 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3118s
+2026-05-21 15:35:31,771 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:35:31,783 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.012s
+2026-05-21 15:37:51,643 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:37:52,064 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.4209s
+2026-05-21 15:37:52,069 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:37:52,079 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.01s
+2026-05-21 15:38:14,431 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 15:38:15,183 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.7521s
+2026-05-21 15:38:15,188 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/11a60247-fc54-4f03-8f61-c64d4d90bd15
+2026-05-21 15:38:15,191 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/11a60247-fc54-4f03-8f61-c64d4d90bd15 | Status: 200 | Duration: 0.003s
+2026-05-21 15:38:16,685 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png
+2026-05-21 15:38:16,694 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png | Status: 200 | Duration: 0.0096s
+2026-05-21 15:38:45,977 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 15:38:46,539 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5625s
+2026-05-21 15:38:46,543 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/98b83d66-2830-4a49-b65c-4dedf79aa617
+2026-05-21 15:38:46,545 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/98b83d66-2830-4a49-b65c-4dedf79aa617 | Status: 200 | Duration: 0.0014s
+2026-05-21 15:38:47,535 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png
+2026-05-21 15:38:47,547 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png | Status: 200 | Duration: 0.0119s
+2026-05-21 15:39:06,964 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:39:07,333 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3688s
+2026-05-21 15:39:07,338 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:39:07,346 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png
+2026-05-21 15:39:07,355 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0172s
+2026-05-21 15:39:07,356 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png | Status: 200 | Duration: 0.0103s
+2026-05-21 15:39:07,358 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png
+2026-05-21 15:39:07,385 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png | Status: 200 | Duration: 0.0274s
+2026-05-21 15:39:24,492 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:39:24,493 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0007s
+2026-05-21 15:39:24,495 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg
+2026-05-21 15:39:24,791 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/3d81d137-8235-482c-8049-4f43737e6c3e/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.2955s
+2026-05-21 15:39:28,892 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png
+2026-05-21 15:39:28,893 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png | Status: 200 | Duration: 0.0008s
+2026-05-21 15:39:28,895 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png
+2026-05-21 15:39:29,170 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/11a60247-fc54-4f03-8f61-c64d4d90bd15.png | Status: 200 | Duration: 0.2753s
+2026-05-21 15:39:31,951 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png
+2026-05-21 15:39:31,952 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png | Status: 200 | Duration: 0.0017s
+2026-05-21 15:39:31,955 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png
+2026-05-21 15:39:32,231 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/98b83d66-2830-4a49-b65c-4dedf79aa617.png | Status: 200 | Duration: 0.2759s
+2026-05-21 15:48:37,070 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:48:41,225 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 4.154s
+2026-05-21 15:48:48,698 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:48:52,468 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 3.7696s
+2026-05-21 15:53:12,830 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:53:17,562 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 4.7325s
+2026-05-21 15:53:51,205 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:53:55,903 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 4.6975s
+2026-05-21 15:54:38,880 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:54:42,085 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 3.2047s
+2026-05-21 15:59:34,512 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:59:38,743 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 4.2308s
+2026-05-21 15:59:55,936 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 15:59:58,869 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 2.9323s
+2026-05-21 16:01:20,588 | INFO | app.main | Shutting down...
+2026-05-21 16:01:20,590 | INFO | app.main | stopping server
+2026-05-21 16:01:35,894 | INFO | app.main | Starting up...
+2026-05-21 16:02:33,277 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:02:33,745 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.4675s
+2026-05-21 16:02:36,441 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:02:36,805 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3639s
+2026-05-21 16:02:39,939 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:02:40,240 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3016s
+2026-05-21 16:02:45,848 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:02:45,859 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.011s
+2026-05-21 16:02:45,924 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg
+2026-05-21 16:02:45,937 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0132s
+2026-05-21 16:02:58,730 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:02:59,489 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.7596s
+2026-05-21 16:02:59,494 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d
+2026-05-21 16:02:59,497 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d | Status: 200 | Duration: 0.0028s
+2026-05-21 16:03:00,386 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png
+2026-05-21 16:03:00,394 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png | Status: 200 | Duration: 0.0082s
+2026-05-21 16:03:04,122 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:03:04,463 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3418s
+2026-05-21 16:03:04,468 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg
+2026-05-21 16:03:04,476 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png
+2026-05-21 16:03:04,484 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0167s
+2026-05-21 16:03:04,486 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png | Status: 200 | Duration: 0.0094s
+2026-05-21 16:03:10,220 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png
+2026-05-21 16:03:10,221 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png | Status: 200 | Duration: 0.0007s
+2026-05-21 16:03:10,223 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png
+2026-05-21 16:03:10,511 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/a2cdbb2d-5bb8-45ac-9591-e639a2f9008d.png | Status: 200 | Duration: 0.2881s
+2026-05-21 16:03:17,210 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:03:17,813 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.6025s
+2026-05-21 16:03:17,818 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/54b0856d-9500-4980-9d19-cff8881f5c87
+2026-05-21 16:03:17,820 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/54b0856d-9500-4980-9d19-cff8881f5c87 | Status: 200 | Duration: 0.0016s
+2026-05-21 16:03:18,579 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png
+2026-05-21 16:03:18,590 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png | Status: 200 | Duration: 0.0109s
+2026-05-21 16:03:34,926 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg
+2026-05-21 16:03:34,927 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0007s
+2026-05-21 16:03:34,930 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg
+2026-05-21 16:03:35,220 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/8b1be81c-fbfa-4916-8e28-182f33565117/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.2895s
+2026-05-21 16:03:36,523 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:03:36,846 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3226s
+2026-05-21 16:03:36,850 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png
+2026-05-21 16:03:36,860 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png | Status: 200 | Duration: 0.0096s
+2026-05-21 16:03:41,025 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png
+2026-05-21 16:03:41,026 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png | Status: 200 | Duration: 0.0005s
+2026-05-21 16:03:41,029 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png
+2026-05-21 16:03:41,313 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/54b0856d-9500-4980-9d19-cff8881f5c87.png | Status: 200 | Duration: 0.2843s
+2026-05-21 16:03:42,482 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:03:42,808 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3255s
+2026-05-21 16:03:51,485 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:03:51,502 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0174s
+2026-05-21 16:03:51,561 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:03:51,569 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0081s
+2026-05-21 16:03:54,598 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:03:55,206 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.6072s
+2026-05-21 16:03:55,212 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1
+2026-05-21 16:03:55,214 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1 | Status: 200 | Duration: 0.0019s
+2026-05-21 16:03:56,042 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png
+2026-05-21 16:03:56,050 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png | Status: 200 | Duration: 0.0084s
+2026-05-21 16:04:32,070 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:04:32,395 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3258s
+2026-05-21 16:04:32,400 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:04:32,407 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png
+2026-05-21 16:04:32,413 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0138s
+2026-05-21 16:04:32,415 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png | Status: 200 | Duration: 0.0073s
+2026-05-21 16:05:52,413 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png
+2026-05-21 16:05:52,413 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png | Status: 200 | Duration: 0.0005s
+2026-05-21 16:05:52,415 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png
+2026-05-21 16:05:52,709 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/14ba0f7b-b91b-45ae-89ac-3ecd39d2cbe1.png | Status: 200 | Duration: 0.2933s
+2026-05-21 16:05:53,470 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:05:53,792 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3224s
+2026-05-21 16:05:53,797 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:05:53,806 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0089s
+2026-05-21 16:05:55,591 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:05:56,245 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.6537s
+2026-05-21 16:05:56,250 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/d6c70ea8-1a31-424d-9371-2ae65e8e64a1
+2026-05-21 16:05:56,252 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/d6c70ea8-1a31-424d-9371-2ae65e8e64a1 | Status: 200 | Duration: 0.0014s
+2026-05-21 16:05:56,998 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png
+2026-05-21 16:05:57,004 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png | Status: 200 | Duration: 0.0063s
+2026-05-21 16:07:04,817 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:07:05,103 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.286s
+2026-05-21 16:07:05,107 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:07:05,112 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png
+2026-05-21 16:07:05,120 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0133s
+2026-05-21 16:07:05,121 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png | Status: 200 | Duration: 0.0092s
+2026-05-21 16:07:47,273 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:07:47,564 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2912s
+2026-05-21 16:07:47,569 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:07:47,578 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png
+2026-05-21 16:07:47,588 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0195s
+2026-05-21 16:07:47,589 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png | Status: 200 | Duration: 0.0116s
+2026-05-21 16:07:52,179 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png
+2026-05-21 16:07:52,179 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png | Status: 200 | Duration: 0.0005s
+2026-05-21 16:07:52,181 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png
+2026-05-21 16:07:52,469 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/d6c70ea8-1a31-424d-9371-2ae65e8e64a1.png | Status: 200 | Duration: 0.2884s
+2026-05-21 16:08:54,655 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:08:54,945 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2901s
+2026-05-21 16:08:54,949 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:08:54,957 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0086s
+2026-05-21 16:09:30,549 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:09:30,560 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0111s
+2026-05-21 16:09:30,655 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:09:30,662 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.007s
+2026-05-21 16:09:36,668 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:09:37,214 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5466s
+2026-05-21 16:09:37,221 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/3fa587ff-db5c-4c58-9505-d5d68ee30c07
+2026-05-21 16:09:37,226 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/3fa587ff-db5c-4c58-9505-d5d68ee30c07 | Status: 200 | Duration: 0.005s
+2026-05-21 16:09:38,146 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png
+2026-05-21 16:09:38,154 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png | Status: 200 | Duration: 0.0086s
+2026-05-21 16:09:58,137 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:09:58,480 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.343s
+2026-05-21 16:09:58,485 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:09:58,494 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.0088s
+2026-05-21 16:09:58,496 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:09:58,511 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0147s
+2026-05-21 16:09:58,513 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png
+2026-05-21 16:09:58,617 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png | Status: 200 | Duration: 0.1034s
+2026-05-21 16:10:07,129 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png
+2026-05-21 16:10:07,130 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png | Status: 200 | Duration: 0.0006s
+2026-05-21 16:10:07,132 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png
+2026-05-21 16:10:07,466 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/3fa587ff-db5c-4c58-9505-d5d68ee30c07.png | Status: 200 | Duration: 0.3335s
+2026-05-21 16:12:32,597 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:12:32,808 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2105s
+2026-05-21 16:12:32,813 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:12:32,821 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.0079s
+2026-05-21 16:12:32,823 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:12:32,827 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0044s
+2026-05-21 16:12:51,842 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:12:52,227 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3858s
+2026-05-21 16:12:52,232 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:12:52,243 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:12:52,250 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.018s
+2026-05-21 16:12:52,252 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0087s
+2026-05-21 16:12:54,914 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:12:55,606 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.6922s
+2026-05-21 16:12:55,611 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/70394122-0c17-429c-a0b0-356d744bcd6b
+2026-05-21 16:12:55,613 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/70394122-0c17-429c-a0b0-356d744bcd6b | Status: 200 | Duration: 0.0019s
+2026-05-21 16:12:56,333 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png
+2026-05-21 16:12:56,340 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png | Status: 200 | Duration: 0.0069s
+2026-05-21 16:12:56,345 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:12:56,345 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0006s
+2026-05-21 16:12:56,347 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 16:12:56,719 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/c8995431-538e-4f92-b45f-92242b7e1b0e/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.3719s
+2026-05-21 16:12:58,851 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:12:59,167 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3163s
+2026-05-21 16:12:59,172 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:12:59,177 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.0058s
+2026-05-21 16:12:59,179 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png
+2026-05-21 16:12:59,190 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png | Status: 200 | Duration: 0.0109s
+2026-05-21 16:16:36,354 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:16:36,674 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3206s
+2026-05-21 16:16:36,678 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:16:36,689 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png
+2026-05-21 16:16:36,698 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.0197s
+2026-05-21 16:16:36,699 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png | Status: 200 | Duration: 0.0108s
+2026-05-21 16:16:40,088 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png
+2026-05-21 16:16:40,089 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png | Status: 200 | Duration: 0.0006s
+2026-05-21 16:16:40,091 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png
+2026-05-21 16:16:40,371 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/70394122-0c17-429c-a0b0-356d744bcd6b.png | Status: 200 | Duration: 0.2801s
+2026-05-21 16:16:43,168 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:16:43,169 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.0009s
+2026-05-21 16:16:43,172 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png
+2026-05-21 16:16:43,428 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/377c5850-39a2-4dac-b1da-6aaaf86b7934/logo-icon.png | Status: 200 | Duration: 0.2559s
+2026-05-21 16:21:27,996 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:21:28,359 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3637s
+2026-05-21 16:23:28,974 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:23:29,327 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3534s
+2026-05-21 16:23:54,357 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:23:54,598 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2407s
+2026-05-21 16:25:12,870 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:25:13,176 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3055s
+2026-05-21 16:25:35,964 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:25:35,974 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0092s
+2026-05-21 16:25:36,042 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/a868a68e-9fe5-444a-933d-d8e34a069f19/logo white.png
+2026-05-21 16:25:36,050 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/a868a68e-9fe5-444a-933d-d8e34a069f19/logo white.png | Status: 200 | Duration: 0.0082s
+2026-05-21 16:25:40,852 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:25:41,415 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5631s
+2026-05-21 16:25:41,419 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/5c11023a-1d5e-4bee-8e83-340341c9b91a
+2026-05-21 16:25:41,421 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/5c11023a-1d5e-4bee-8e83-340341c9b91a | Status: 200 | Duration: 0.0014s
+2026-05-21 16:25:42,539 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/5c11023a-1d5e-4bee-8e83-340341c9b91a.png
+2026-05-21 16:25:42,554 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/5c11023a-1d5e-4bee-8e83-340341c9b91a.png | Status: 200 | Duration: 0.015s
+2026-05-21 16:25:42,558 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/a868a68e-9fe5-444a-933d-d8e34a069f19/logo white.png
+2026-05-21 16:25:42,559 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/a868a68e-9fe5-444a-933d-d8e34a069f19/logo white.png | Status: 200 | Duration: 0.0009s
+2026-05-21 16:25:42,561 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/a868a68e-9fe5-444a-933d-d8e34a069f19/logo white.png
+2026-05-21 16:25:42,882 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/a868a68e-9fe5-444a-933d-d8e34a069f19/logo white.png | Status: 200 | Duration: 0.3211s
+2026-05-21 16:25:54,317 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/5c11023a-1d5e-4bee-8e83-340341c9b91a.png
+2026-05-21 16:25:54,317 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/5c11023a-1d5e-4bee-8e83-340341c9b91a.png | Status: 200 | Duration: 0.0007s
+2026-05-21 16:25:54,320 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/5c11023a-1d5e-4bee-8e83-340341c9b91a.png
+2026-05-21 16:25:54,619 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/5c11023a-1d5e-4bee-8e83-340341c9b91a.png | Status: 200 | Duration: 0.2995s
+2026-05-21 16:25:59,460 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:25:59,770 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3105s
+2026-05-21 16:26:02,058 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:26:02,409 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3516s
+2026-05-21 16:30:37,802 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:30:37,994 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.1911s
+2026-05-21 16:32:33,984 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:32:34,348 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3639s
+2026-05-21 16:32:37,645 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:32:37,658 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0123s
+2026-05-21 16:32:37,719 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/e056dfa6-a85b-4edd-8725-adc9bbc84bbd/_133006004_modiprofilepic.jpg
+2026-05-21 16:32:37,727 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/e056dfa6-a85b-4edd-8725-adc9bbc84bbd/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0085s
+2026-05-21 16:32:40,713 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:32:41,409 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.6966s
+2026-05-21 16:32:41,415 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/3a894f90-64f1-401e-b51a-de6ec2424112
+2026-05-21 16:32:41,417 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/3a894f90-64f1-401e-b51a-de6ec2424112 | Status: 200 | Duration: 0.0015s
+2026-05-21 16:32:42,233 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/3a894f90-64f1-401e-b51a-de6ec2424112.png
+2026-05-21 16:32:42,242 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/3a894f90-64f1-401e-b51a-de6ec2424112.png | Status: 200 | Duration: 0.0086s
+2026-05-21 16:32:42,247 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/e056dfa6-a85b-4edd-8725-adc9bbc84bbd/_133006004_modiprofilepic.jpg
+2026-05-21 16:32:42,247 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/e056dfa6-a85b-4edd-8725-adc9bbc84bbd/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.0006s
+2026-05-21 16:32:42,249 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/e056dfa6-a85b-4edd-8725-adc9bbc84bbd/_133006004_modiprofilepic.jpg
+2026-05-21 16:32:42,595 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/e056dfa6-a85b-4edd-8725-adc9bbc84bbd/_133006004_modiprofilepic.jpg | Status: 200 | Duration: 0.3451s
+2026-05-21 16:32:53,378 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/3a894f90-64f1-401e-b51a-de6ec2424112.png
+2026-05-21 16:32:53,379 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/3a894f90-64f1-401e-b51a-de6ec2424112.png | Status: 200 | Duration: 0.0005s
+2026-05-21 16:32:53,381 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/3a894f90-64f1-401e-b51a-de6ec2424112.png
+2026-05-21 16:32:53,701 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/3a894f90-64f1-401e-b51a-de6ec2424112.png | Status: 200 | Duration: 0.3198s
+2026-05-21 16:32:53,756 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:32:54,148 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3923s
+2026-05-21 16:32:58,551 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:32:58,561 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0102s
+2026-05-21 16:32:58,629 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/b7457aeb-0f24-4a8d-957c-1ff621fef426/ChatGPT Image Feb 27, 2026, 12_22_24 AM.png
+2026-05-21 16:32:58,641 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/b7457aeb-0f24-4a8d-957c-1ff621fef426/ChatGPT Image Feb 27, 2026, 12_22_24 AM.png | Status: 200 | Duration: 0.0116s
+2026-05-21 16:33:06,090 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:33:06,727 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.637s
+2026-05-21 16:33:06,731 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/0c0c8987-5f08-436b-9183-2874b28583ee
+2026-05-21 16:33:06,733 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/0c0c8987-5f08-436b-9183-2874b28583ee | Status: 200 | Duration: 0.0013s
+2026-05-21 16:33:07,624 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/0c0c8987-5f08-436b-9183-2874b28583ee.png
+2026-05-21 16:33:07,638 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/0c0c8987-5f08-436b-9183-2874b28583ee.png | Status: 200 | Duration: 0.0147s
+2026-05-21 16:33:07,642 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/b7457aeb-0f24-4a8d-957c-1ff621fef426/ChatGPT Image Feb 27, 2026, 12_22_24 AM.png
+2026-05-21 16:33:07,643 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/b7457aeb-0f24-4a8d-957c-1ff621fef426/ChatGPT Image Feb 27, 2026, 12_22_24 AM.png | Status: 200 | Duration: 0.0007s
+2026-05-21 16:33:07,645 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/b7457aeb-0f24-4a8d-957c-1ff621fef426/ChatGPT Image Feb 27, 2026, 12_22_24 AM.png
+2026-05-21 16:33:07,966 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/b7457aeb-0f24-4a8d-957c-1ff621fef426/ChatGPT Image Feb 27, 2026, 12_22_24 AM.png | Status: 200 | Duration: 0.3206s
+2026-05-21 16:33:13,593 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/0c0c8987-5f08-436b-9183-2874b28583ee.png
+2026-05-21 16:33:13,593 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/0c0c8987-5f08-436b-9183-2874b28583ee.png | Status: 200 | Duration: 0.0006s
+2026-05-21 16:33:13,596 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/0c0c8987-5f08-436b-9183-2874b28583ee.png
+2026-05-21 16:33:13,911 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/0c0c8987-5f08-436b-9183-2874b28583ee.png | Status: 200 | Duration: 0.3157s
+2026-05-21 16:33:13,981 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:33:14,301 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3195s
+2026-05-21 16:33:17,612 | INFO | app.middleware.logging_middleware | Incoming Request | GET /docs
+2026-05-21 16:33:17,613 | INFO | app.middleware.logging_middleware | Completed Request | GET /docs | Status: 200 | Duration: 0.001s
+2026-05-21 16:33:17,691 | INFO | app.middleware.logging_middleware | Incoming Request | GET /openapi.json
+2026-05-21 16:33:17,702 | INFO | app.middleware.logging_middleware | Completed Request | GET /openapi.json | Status: 200 | Duration: 0.0113s
+2026-05-21 16:33:24,010 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:33:24,306 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2967s
+2026-05-21 16:33:48,816 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:33:48,823 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0071s
+2026-05-21 16:33:48,893 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/5f3ed2f9-6a4f-4446-ac88-0592d4a709ec/1920_emiratesa380-3.jpg
+2026-05-21 16:33:48,901 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/5f3ed2f9-6a4f-4446-ac88-0592d4a709ec/1920_emiratesa380-3.jpg | Status: 200 | Duration: 0.008s
+2026-05-21 16:34:36,632 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:34:37,228 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.596s
+2026-05-21 16:34:37,233 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/3e870248-3c66-4a17-8c95-0ea6db1b5850
+2026-05-21 16:34:37,235 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/3e870248-3c66-4a17-8c95-0ea6db1b5850 | Status: 200 | Duration: 0.0017s
+2026-05-21 16:34:39,114 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/3e870248-3c66-4a17-8c95-0ea6db1b5850.png
+2026-05-21 16:34:39,125 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/3e870248-3c66-4a17-8c95-0ea6db1b5850.png | Status: 200 | Duration: 0.0112s
+2026-05-21 16:34:39,131 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/5f3ed2f9-6a4f-4446-ac88-0592d4a709ec/1920_emiratesa380-3.jpg
+2026-05-21 16:34:39,132 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/5f3ed2f9-6a4f-4446-ac88-0592d4a709ec/1920_emiratesa380-3.jpg | Status: 200 | Duration: 0.0006s
+2026-05-21 16:34:39,135 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/5f3ed2f9-6a4f-4446-ac88-0592d4a709ec/1920_emiratesa380-3.jpg
+2026-05-21 16:34:39,444 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/5f3ed2f9-6a4f-4446-ac88-0592d4a709ec/1920_emiratesa380-3.jpg | Status: 200 | Duration: 0.309s
+2026-05-21 16:36:01,455 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/3e870248-3c66-4a17-8c95-0ea6db1b5850.png
+2026-05-21 16:36:01,455 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/3e870248-3c66-4a17-8c95-0ea6db1b5850.png | Status: 200 | Duration: 0.0006s
+2026-05-21 16:36:01,458 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/3e870248-3c66-4a17-8c95-0ea6db1b5850.png
+2026-05-21 16:36:01,795 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:36:02,162 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/3e870248-3c66-4a17-8c95-0ea6db1b5850.png | Status: 200 | Duration: 0.7046s
+2026-05-21 16:36:02,169 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3741s
+2026-05-21 16:36:06,327 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:36:06,682 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3551s
+2026-05-21 16:36:11,053 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:36:11,434 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3817s
+2026-05-21 16:36:12,373 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:36:12,712 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3389s
+2026-05-21 16:36:19,054 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:36:19,395 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3419s
+2026-05-21 16:37:01,114 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 16:37:01,124 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0097s
+2026-05-21 16:37:01,195 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/2ad57cd7-6811-4e9d-8426-80c3296cf2e0/silk-meenakari-designer-traditional-saree-300406-1000x1375.jpg
+2026-05-21 16:37:01,203 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/2ad57cd7-6811-4e9d-8426-80c3296cf2e0/silk-meenakari-designer-traditional-saree-300406-1000x1375.jpg | Status: 200 | Duration: 0.0073s
+2026-05-21 16:37:04,234 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 16:37:04,826 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.592s
+2026-05-21 16:37:04,832 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/2e172673-6478-4c86-902e-9900819131e7
+2026-05-21 16:37:04,834 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/2e172673-6478-4c86-902e-9900819131e7 | Status: 200 | Duration: 0.0019s
+2026-05-21 16:37:05,846 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/2e172673-6478-4c86-902e-9900819131e7.png
+2026-05-21 16:37:05,855 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/2e172673-6478-4c86-902e-9900819131e7.png | Status: 200 | Duration: 0.0092s
+2026-05-21 16:37:05,860 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/2ad57cd7-6811-4e9d-8426-80c3296cf2e0/silk-meenakari-designer-traditional-saree-300406-1000x1375.jpg
+2026-05-21 16:37:05,861 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/2ad57cd7-6811-4e9d-8426-80c3296cf2e0/silk-meenakari-designer-traditional-saree-300406-1000x1375.jpg | Status: 200 | Duration: 0.0005s
+2026-05-21 16:37:05,864 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/2ad57cd7-6811-4e9d-8426-80c3296cf2e0/silk-meenakari-designer-traditional-saree-300406-1000x1375.jpg
+2026-05-21 16:37:06,197 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/2ad57cd7-6811-4e9d-8426-80c3296cf2e0/silk-meenakari-designer-traditional-saree-300406-1000x1375.jpg | Status: 200 | Duration: 0.3333s
+2026-05-21 16:37:16,318 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/2e172673-6478-4c86-902e-9900819131e7.png
+2026-05-21 16:37:16,319 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/2e172673-6478-4c86-902e-9900819131e7.png | Status: 200 | Duration: 0.0009s
+2026-05-21 16:37:16,322 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/2e172673-6478-4c86-902e-9900819131e7.png
+2026-05-21 16:37:16,668 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/2e172673-6478-4c86-902e-9900819131e7.png | Status: 200 | Duration: 0.3455s
+2026-05-21 16:37:18,962 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:37:19,367 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.4046s
+2026-05-21 16:37:39,888 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:37:40,242 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.3544s
+2026-05-21 16:37:50,858 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 16:37:51,124 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2665s
+2026-05-21 18:47:44,101 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 18:47:44,325 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.2241s
+2026-05-21 18:47:54,146 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 18:47:54,156 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.01s
+2026-05-21 18:47:54,231 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/bbee71b8-dadf-46d9-a4bc-0ad5a9ee193e/download (1).jpeg
+2026-05-21 18:47:54,236 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/bbee71b8-dadf-46d9-a4bc-0ad5a9ee193e/download (1).jpeg | Status: 200 | Duration: 0.0053s
+2026-05-21 18:47:56,609 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 18:47:57,041 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4326s
+2026-05-21 18:47:57,046 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/40f52f04-1a96-410e-b6fb-3a2432392d2a
+2026-05-21 18:47:57,048 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/40f52f04-1a96-410e-b6fb-3a2432392d2a | Status: 200 | Duration: 0.0015s
+2026-05-21 18:47:58,216 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/40f52f04-1a96-410e-b6fb-3a2432392d2a.png
+2026-05-21 18:47:58,223 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/40f52f04-1a96-410e-b6fb-3a2432392d2a.png | Status: 200 | Duration: 0.0068s
+2026-05-21 18:47:58,227 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/bbee71b8-dadf-46d9-a4bc-0ad5a9ee193e/download (1).jpeg
+2026-05-21 18:47:58,228 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/bbee71b8-dadf-46d9-a4bc-0ad5a9ee193e/download (1).jpeg | Status: 200 | Duration: 0.0007s
+2026-05-21 18:47:58,230 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/bbee71b8-dadf-46d9-a4bc-0ad5a9ee193e/download (1).jpeg
+2026-05-21 18:47:58,444 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/bbee71b8-dadf-46d9-a4bc-0ad5a9ee193e/download (1).jpeg | Status: 200 | Duration: 0.2137s
+2026-05-21 18:48:02,333 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/40f52f04-1a96-410e-b6fb-3a2432392d2a.png
+2026-05-21 18:48:02,334 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/40f52f04-1a96-410e-b6fb-3a2432392d2a.png | Status: 200 | Duration: 0.0006s
+2026-05-21 18:48:02,336 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/40f52f04-1a96-410e-b6fb-3a2432392d2a.png
+2026-05-21 18:48:02,602 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/40f52f04-1a96-410e-b6fb-3a2432392d2a.png | Status: 200 | Duration: 0.2657s
+2026-05-21 18:48:09,674 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 18:48:09,683 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0095s
+2026-05-21 18:48:09,754 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/997d9920-d66a-4780-996f-38a1fc24f990/IMG20241227102504 - Copy.jpg
+2026-05-21 18:48:09,760 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/997d9920-d66a-4780-996f-38a1fc24f990/IMG20241227102504 - Copy.jpg | Status: 200 | Duration: 0.0057s
+2026-05-21 18:48:12,072 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 18:48:12,541 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4698s
+2026-05-21 18:48:12,545 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/b8857477-e5c3-4be6-ade0-71de4201bcf5
+2026-05-21 18:48:12,547 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/b8857477-e5c3-4be6-ade0-71de4201bcf5 | Status: 200 | Duration: 0.0015s
+2026-05-21 18:48:13,466 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/b8857477-e5c3-4be6-ade0-71de4201bcf5.png
+2026-05-21 18:48:13,473 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/b8857477-e5c3-4be6-ade0-71de4201bcf5.png | Status: 200 | Duration: 0.0066s
+2026-05-21 18:48:13,477 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/997d9920-d66a-4780-996f-38a1fc24f990/IMG20241227102504 - Copy.jpg
+2026-05-21 18:48:13,478 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/997d9920-d66a-4780-996f-38a1fc24f990/IMG20241227102504 - Copy.jpg | Status: 200 | Duration: 0.0006s
+2026-05-21 18:48:13,480 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/997d9920-d66a-4780-996f-38a1fc24f990/IMG20241227102504 - Copy.jpg
+2026-05-21 18:48:13,670 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/997d9920-d66a-4780-996f-38a1fc24f990/IMG20241227102504 - Copy.jpg | Status: 200 | Duration: 0.1903s
+2026-05-21 18:48:33,930 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/b8857477-e5c3-4be6-ade0-71de4201bcf5.png
+2026-05-21 18:48:33,931 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/b8857477-e5c3-4be6-ade0-71de4201bcf5.png | Status: 200 | Duration: 0.0014s
+2026-05-21 18:48:33,935 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/b8857477-e5c3-4be6-ade0-71de4201bcf5.png
+2026-05-21 18:48:34,164 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/b8857477-e5c3-4be6-ade0-71de4201bcf5.png | Status: 200 | Duration: 0.2295s
+2026-05-21 20:12:03,126 | INFO | app.main | Starting up...
+2026-05-21 20:12:43,089 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/
+2026-05-21 20:12:43,376 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/ | Status: 200 | Duration: 0.287s
+2026-05-21 20:12:48,963 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:12:48,973 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.01s
+2026-05-21 20:12:49,040 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/0731aae0-0a21-4b36-816d-0354851ffe13/download.jpeg
+2026-05-21 20:12:49,054 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/0731aae0-0a21-4b36-816d-0354851ffe13/download.jpeg | Status: 200 | Duration: 0.0139s
+2026-05-21 20:12:55,075 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:12:55,627 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5519s
+2026-05-21 20:12:55,632 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/93560129-df1c-4de8-8d19-f3a47e482f62
+2026-05-21 20:12:55,634 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/93560129-df1c-4de8-8d19-f3a47e482f62 | Status: 200 | Duration: 0.0022s
+2026-05-21 20:12:56,481 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/93560129-df1c-4de8-8d19-f3a47e482f62.png
+2026-05-21 20:12:56,491 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/93560129-df1c-4de8-8d19-f3a47e482f62.png | Status: 200 | Duration: 0.0092s
+2026-05-21 20:12:56,496 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/0731aae0-0a21-4b36-816d-0354851ffe13/download.jpeg
+2026-05-21 20:12:56,497 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/0731aae0-0a21-4b36-816d-0354851ffe13/download.jpeg | Status: 200 | Duration: 0.0005s
+2026-05-21 20:12:56,499 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/0731aae0-0a21-4b36-816d-0354851ffe13/download.jpeg
+2026-05-21 20:12:56,804 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/0731aae0-0a21-4b36-816d-0354851ffe13/download.jpeg | Status: 200 | Duration: 0.305s
+2026-05-21 20:13:04,433 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/93560129-df1c-4de8-8d19-f3a47e482f62.png
+2026-05-21 20:13:04,434 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/93560129-df1c-4de8-8d19-f3a47e482f62.png | Status: 200 | Duration: 0.0007s
+2026-05-21 20:13:04,436 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/93560129-df1c-4de8-8d19-f3a47e482f62.png
+2026-05-21 20:13:04,620 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/93560129-df1c-4de8-8d19-f3a47e482f62.png | Status: 200 | Duration: 0.1832s
+2026-05-21 20:13:36,025 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:13:36,033 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0075s
+2026-05-21 20:13:36,088 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/f4d8674c-347d-44c9-8359-dae66e3d993f/EmiratesAirline-kbTC--621x414@LiveMint.webp
+2026-05-21 20:13:36,094 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/f4d8674c-347d-44c9-8359-dae66e3d993f/EmiratesAirline-kbTC--621x414@LiveMint.webp | Status: 200 | Duration: 0.0054s
+2026-05-21 20:13:39,248 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:13:39,733 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4848s
+2026-05-21 20:13:39,737 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/a6b5e2e5-6df6-4545-aa7a-df78b30ed578
+2026-05-21 20:13:39,739 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/a6b5e2e5-6df6-4545-aa7a-df78b30ed578 | Status: 200 | Duration: 0.0016s
+2026-05-21 20:13:40,411 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/a6b5e2e5-6df6-4545-aa7a-df78b30ed578.png
+2026-05-21 20:13:40,419 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/a6b5e2e5-6df6-4545-aa7a-df78b30ed578.png | Status: 200 | Duration: 0.0077s
+2026-05-21 20:13:40,424 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/f4d8674c-347d-44c9-8359-dae66e3d993f/EmiratesAirline-kbTC--621x414@LiveMint.webp
+2026-05-21 20:13:40,425 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/f4d8674c-347d-44c9-8359-dae66e3d993f/EmiratesAirline-kbTC--621x414@LiveMint.webp | Status: 200 | Duration: 0.0006s
+2026-05-21 20:13:40,427 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/f4d8674c-347d-44c9-8359-dae66e3d993f/EmiratesAirline-kbTC--621x414@LiveMint.webp
+2026-05-21 20:13:40,673 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/f4d8674c-347d-44c9-8359-dae66e3d993f/EmiratesAirline-kbTC--621x414@LiveMint.webp | Status: 200 | Duration: 0.2465s
+2026-05-21 20:13:47,791 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/a6b5e2e5-6df6-4545-aa7a-df78b30ed578.png
+2026-05-21 20:13:47,791 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/a6b5e2e5-6df6-4545-aa7a-df78b30ed578.png | Status: 200 | Duration: 0.0006s
+2026-05-21 20:13:47,794 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/a6b5e2e5-6df6-4545-aa7a-df78b30ed578.png
+2026-05-21 20:13:47,993 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/a6b5e2e5-6df6-4545-aa7a-df78b30ed578.png | Status: 200 | Duration: 0.1997s
+2026-05-21 20:13:58,995 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:13:59,002 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0062s
+2026-05-21 20:13:59,059 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/38f7b202-8754-4de9-8f7c-ccabd0df4aba/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 20:13:59,064 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/38f7b202-8754-4de9-8f7c-ccabd0df4aba/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0054s
+2026-05-21 20:14:01,009 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:14:01,568 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5591s
+2026-05-21 20:14:01,573 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/a72b961a-1a83-4a2d-98f8-ec892fa2a713
+2026-05-21 20:14:01,574 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/a72b961a-1a83-4a2d-98f8-ec892fa2a713 | Status: 200 | Duration: 0.0011s
+2026-05-21 20:14:02,277 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/a72b961a-1a83-4a2d-98f8-ec892fa2a713.png
+2026-05-21 20:14:02,284 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/a72b961a-1a83-4a2d-98f8-ec892fa2a713.png | Status: 200 | Duration: 0.0066s
+2026-05-21 20:14:02,287 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/38f7b202-8754-4de9-8f7c-ccabd0df4aba/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 20:14:02,288 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/38f7b202-8754-4de9-8f7c-ccabd0df4aba/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.0007s
+2026-05-21 20:14:02,290 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/38f7b202-8754-4de9-8f7c-ccabd0df4aba/thenewsminute_2026-03-23_iqaems68_202603233717997.avif
+2026-05-21 20:14:02,545 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/38f7b202-8754-4de9-8f7c-ccabd0df4aba/thenewsminute_2026-03-23_iqaems68_202603233717997.avif | Status: 200 | Duration: 0.2548s
+2026-05-21 20:14:05,664 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/a72b961a-1a83-4a2d-98f8-ec892fa2a713.png
+2026-05-21 20:14:05,665 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/a72b961a-1a83-4a2d-98f8-ec892fa2a713.png | Status: 200 | Duration: 0.0007s
+2026-05-21 20:14:05,667 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/a72b961a-1a83-4a2d-98f8-ec892fa2a713.png
+2026-05-21 20:14:05,896 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/a72b961a-1a83-4a2d-98f8-ec892fa2a713.png | Status: 200 | Duration: 0.2284s
+2026-05-21 20:14:11,328 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:14:11,340 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0124s
+2026-05-21 20:14:11,408 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/379a02b0-97a7-4ef7-aaf4-c48aef21f544/Screenshot_2026-05-18-15-29-40-80_40deb401b9ffe8e1df2f1cc5ba480b12.jpg
+2026-05-21 20:14:11,416 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/379a02b0-97a7-4ef7-aaf4-c48aef21f544/Screenshot_2026-05-18-15-29-40-80_40deb401b9ffe8e1df2f1cc5ba480b12.jpg | Status: 200 | Duration: 0.0077s
+2026-05-21 20:14:13,586 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:14:13,998 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4112s
+2026-05-21 20:14:14,001 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/3047c51d-3c0d-4695-a001-8678d73c5a51
+2026-05-21 20:14:14,003 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/3047c51d-3c0d-4695-a001-8678d73c5a51 | Status: 200 | Duration: 0.0013s
+2026-05-21 20:14:15,137 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/3047c51d-3c0d-4695-a001-8678d73c5a51.png
+2026-05-21 20:14:15,145 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/3047c51d-3c0d-4695-a001-8678d73c5a51.png | Status: 200 | Duration: 0.008s
+2026-05-21 20:14:15,149 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/379a02b0-97a7-4ef7-aaf4-c48aef21f544/Screenshot_2026-05-18-15-29-40-80_40deb401b9ffe8e1df2f1cc5ba480b12.jpg
+2026-05-21 20:14:15,150 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/379a02b0-97a7-4ef7-aaf4-c48aef21f544/Screenshot_2026-05-18-15-29-40-80_40deb401b9ffe8e1df2f1cc5ba480b12.jpg | Status: 200 | Duration: 0.0006s
+2026-05-21 20:14:15,152 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/379a02b0-97a7-4ef7-aaf4-c48aef21f544/Screenshot_2026-05-18-15-29-40-80_40deb401b9ffe8e1df2f1cc5ba480b12.jpg
+2026-05-21 20:14:15,400 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/379a02b0-97a7-4ef7-aaf4-c48aef21f544/Screenshot_2026-05-18-15-29-40-80_40deb401b9ffe8e1df2f1cc5ba480b12.jpg | Status: 200 | Duration: 0.2478s
+2026-05-21 20:14:24,063 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/3047c51d-3c0d-4695-a001-8678d73c5a51.png
+2026-05-21 20:14:24,064 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/3047c51d-3c0d-4695-a001-8678d73c5a51.png | Status: 200 | Duration: 0.0007s
+2026-05-21 20:14:24,066 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/3047c51d-3c0d-4695-a001-8678d73c5a51.png
+2026-05-21 20:14:24,315 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/3047c51d-3c0d-4695-a001-8678d73c5a51.png | Status: 200 | Duration: 0.2491s
+2026-05-21 20:14:36,147 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:14:36,156 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0083s
+2026-05-21 20:14:36,259 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/919ecf5f-a2a3-4abb-96b3-857d83affca4/flavien-MaraDXSaTho-unsplash.jpg
+2026-05-21 20:14:36,263 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/919ecf5f-a2a3-4abb-96b3-857d83affca4/flavien-MaraDXSaTho-unsplash.jpg | Status: 200 | Duration: 0.0046s
+2026-05-21 20:14:38,539 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:14:39,061 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5219s
+2026-05-21 20:14:39,065 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/0a73adee-c685-467b-a4d8-250259ef4137
+2026-05-21 20:14:39,066 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/0a73adee-c685-467b-a4d8-250259ef4137 | Status: 200 | Duration: 0.0014s
+2026-05-21 20:14:41,224 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/0a73adee-c685-467b-a4d8-250259ef4137.png
+2026-05-21 20:14:41,229 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/0a73adee-c685-467b-a4d8-250259ef4137.png | Status: 200 | Duration: 0.005s
+2026-05-21 20:14:41,233 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/919ecf5f-a2a3-4abb-96b3-857d83affca4/flavien-MaraDXSaTho-unsplash.jpg
+2026-05-21 20:14:41,234 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/919ecf5f-a2a3-4abb-96b3-857d83affca4/flavien-MaraDXSaTho-unsplash.jpg | Status: 200 | Duration: 0.0008s
+2026-05-21 20:14:41,237 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/919ecf5f-a2a3-4abb-96b3-857d83affca4/flavien-MaraDXSaTho-unsplash.jpg
+2026-05-21 20:14:41,443 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/919ecf5f-a2a3-4abb-96b3-857d83affca4/flavien-MaraDXSaTho-unsplash.jpg | Status: 200 | Duration: 0.2065s
+2026-05-21 20:14:45,839 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/0a73adee-c685-467b-a4d8-250259ef4137.png
+2026-05-21 20:14:45,840 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/0a73adee-c685-467b-a4d8-250259ef4137.png | Status: 200 | Duration: 0.0006s
+2026-05-21 20:14:45,842 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/0a73adee-c685-467b-a4d8-250259ef4137.png
+2026-05-21 20:14:46,130 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/0a73adee-c685-467b-a4d8-250259ef4137.png | Status: 200 | Duration: 0.2874s
+2026-05-21 20:14:52,078 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:14:52,083 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0056s
+2026-05-21 20:14:52,144 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/f472fcbd-8715-49f4-862f-feb5df5c39b6/WhatsApp Image 2022-04-06 at 10.10.52 PM.jpeg
+2026-05-21 20:14:52,152 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/f472fcbd-8715-49f4-862f-feb5df5c39b6/WhatsApp Image 2022-04-06 at 10.10.52 PM.jpeg | Status: 200 | Duration: 0.0075s
+2026-05-21 20:14:54,281 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:14:54,727 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4461s
+2026-05-21 20:14:54,731 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/42b0f77a-33aa-423f-952b-35cb47cb2e5e
+2026-05-21 20:14:54,732 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/42b0f77a-33aa-423f-952b-35cb47cb2e5e | Status: 200 | Duration: 0.0012s
+2026-05-21 20:14:55,816 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/42b0f77a-33aa-423f-952b-35cb47cb2e5e.png
+2026-05-21 20:14:55,826 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/42b0f77a-33aa-423f-952b-35cb47cb2e5e.png | Status: 200 | Duration: 0.0098s
+2026-05-21 20:14:55,830 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/f472fcbd-8715-49f4-862f-feb5df5c39b6/WhatsApp Image 2022-04-06 at 10.10.52 PM.jpeg
+2026-05-21 20:14:55,831 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/f472fcbd-8715-49f4-862f-feb5df5c39b6/WhatsApp Image 2022-04-06 at 10.10.52 PM.jpeg | Status: 200 | Duration: 0.0005s
+2026-05-21 20:14:55,832 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/f472fcbd-8715-49f4-862f-feb5df5c39b6/WhatsApp Image 2022-04-06 at 10.10.52 PM.jpeg
+2026-05-21 20:14:56,042 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/f472fcbd-8715-49f4-862f-feb5df5c39b6/WhatsApp Image 2022-04-06 at 10.10.52 PM.jpeg | Status: 200 | Duration: 0.2094s
+2026-05-21 20:15:08,371 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/42b0f77a-33aa-423f-952b-35cb47cb2e5e.png
+2026-05-21 20:15:08,371 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/42b0f77a-33aa-423f-952b-35cb47cb2e5e.png | Status: 200 | Duration: 0.0007s
+2026-05-21 20:15:08,374 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/42b0f77a-33aa-423f-952b-35cb47cb2e5e.png
+2026-05-21 20:15:08,547 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/42b0f77a-33aa-423f-952b-35cb47cb2e5e.png | Status: 200 | Duration: 0.173s
+2026-05-21 20:15:13,959 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:15:13,965 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0053s
+2026-05-21 20:15:14,018 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/6ce4ba8f-8da6-4cc1-8d83-dd89c23c3dcd/48952592_333039084090072_1034367664069279744_n.jpg
+2026-05-21 20:15:14,023 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/6ce4ba8f-8da6-4cc1-8d83-dd89c23c3dcd/48952592_333039084090072_1034367664069279744_n.jpg | Status: 200 | Duration: 0.0059s
+2026-05-21 20:15:16,312 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:15:16,843 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5311s
+2026-05-21 20:15:16,847 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37
+2026-05-21 20:15:16,848 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37 | Status: 200 | Duration: 0.0013s
+2026-05-21 20:15:17,620 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37.png
+2026-05-21 20:15:17,627 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37.png | Status: 200 | Duration: 0.0064s
+2026-05-21 20:15:17,631 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/6ce4ba8f-8da6-4cc1-8d83-dd89c23c3dcd/48952592_333039084090072_1034367664069279744_n.jpg
+2026-05-21 20:15:17,631 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/6ce4ba8f-8da6-4cc1-8d83-dd89c23c3dcd/48952592_333039084090072_1034367664069279744_n.jpg | Status: 200 | Duration: 0.0006s
+2026-05-21 20:15:17,634 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/6ce4ba8f-8da6-4cc1-8d83-dd89c23c3dcd/48952592_333039084090072_1034367664069279744_n.jpg
+2026-05-21 20:15:17,888 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/6ce4ba8f-8da6-4cc1-8d83-dd89c23c3dcd/48952592_333039084090072_1034367664069279744_n.jpg | Status: 200 | Duration: 0.2537s
+2026-05-21 20:15:26,041 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37.png
+2026-05-21 20:15:26,042 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37.png | Status: 200 | Duration: 0.0006s
+2026-05-21 20:15:26,044 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37.png
+2026-05-21 20:15:26,227 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/2bc5d2ef-9d89-4f1b-96fc-3228d5c05b37.png | Status: 200 | Duration: 0.1825s
+2026-05-21 20:15:31,608 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:15:31,614 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0056s
+2026-05-21 20:15:31,729 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/f4454e82-aa57-4ebf-83c9-dc41c09d70d3/IMG_20201117_071147-02.jpeg
+2026-05-21 20:15:31,735 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/f4454e82-aa57-4ebf-83c9-dc41c09d70d3/IMG_20201117_071147-02.jpeg | Status: 200 | Duration: 0.0061s
+2026-05-21 20:15:34,302 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:15:34,784 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4819s
+2026-05-21 20:15:34,789 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/f2d5c6b9-844c-487a-b866-b2901185cea7
+2026-05-21 20:15:34,790 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/f2d5c6b9-844c-487a-b866-b2901185cea7 | Status: 200 | Duration: 0.0015s
+2026-05-21 20:15:36,717 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/f2d5c6b9-844c-487a-b866-b2901185cea7.png
+2026-05-21 20:15:36,726 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/f2d5c6b9-844c-487a-b866-b2901185cea7.png | Status: 200 | Duration: 0.009s
+2026-05-21 20:15:36,730 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/f4454e82-aa57-4ebf-83c9-dc41c09d70d3/IMG_20201117_071147-02.jpeg
+2026-05-21 20:15:36,730 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/f4454e82-aa57-4ebf-83c9-dc41c09d70d3/IMG_20201117_071147-02.jpeg | Status: 200 | Duration: 0.0006s
+2026-05-21 20:15:36,733 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/f4454e82-aa57-4ebf-83c9-dc41c09d70d3/IMG_20201117_071147-02.jpeg
+2026-05-21 20:15:36,989 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/f4454e82-aa57-4ebf-83c9-dc41c09d70d3/IMG_20201117_071147-02.jpeg | Status: 200 | Duration: 0.2556s
+2026-05-21 20:15:44,365 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/f2d5c6b9-844c-487a-b866-b2901185cea7.png
+2026-05-21 20:15:44,366 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/f2d5c6b9-844c-487a-b866-b2901185cea7.png | Status: 200 | Duration: 0.0007s
+2026-05-21 20:15:44,368 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/f2d5c6b9-844c-487a-b866-b2901185cea7.png
+2026-05-21 20:15:44,549 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/f2d5c6b9-844c-487a-b866-b2901185cea7.png | Status: 200 | Duration: 0.1814s
+2026-05-21 20:16:28,662 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:16:28,758 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0963s
+2026-05-21 20:16:28,812 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/c530ee11-6386-4b0b-8cf4-e689494856d8/WhatsApp Image 2023-05-05 at 5.29.31 PM.jpeg
+2026-05-21 20:16:28,816 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/c530ee11-6386-4b0b-8cf4-e689494856d8/WhatsApp Image 2023-05-05 at 5.29.31 PM.jpeg | Status: 200 | Duration: 0.0048s
+2026-05-21 20:16:30,602 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:16:31,043 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.4409s
+2026-05-21 20:16:31,046 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/a2b0ac6b-be76-4538-a269-14ea00eadf27
+2026-05-21 20:16:31,047 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/a2b0ac6b-be76-4538-a269-14ea00eadf27 | Status: 200 | Duration: 0.0011s
+2026-05-21 20:16:31,874 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/a2b0ac6b-be76-4538-a269-14ea00eadf27.png
+2026-05-21 20:16:31,881 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/a2b0ac6b-be76-4538-a269-14ea00eadf27.png | Status: 200 | Duration: 0.0069s
+2026-05-21 20:16:31,885 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/c530ee11-6386-4b0b-8cf4-e689494856d8/WhatsApp Image 2023-05-05 at 5.29.31 PM.jpeg
+2026-05-21 20:16:31,886 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/c530ee11-6386-4b0b-8cf4-e689494856d8/WhatsApp Image 2023-05-05 at 5.29.31 PM.jpeg | Status: 200 | Duration: 0.0006s
+2026-05-21 20:16:31,888 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/c530ee11-6386-4b0b-8cf4-e689494856d8/WhatsApp Image 2023-05-05 at 5.29.31 PM.jpeg
+2026-05-21 20:16:32,095 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/c530ee11-6386-4b0b-8cf4-e689494856d8/WhatsApp Image 2023-05-05 at 5.29.31 PM.jpeg | Status: 200 | Duration: 0.2063s
+2026-05-21 20:16:37,435 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/a2b0ac6b-be76-4538-a269-14ea00eadf27.png
+2026-05-21 20:16:37,437 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/a2b0ac6b-be76-4538-a269-14ea00eadf27.png | Status: 200 | Duration: 0.0014s
+2026-05-21 20:16:37,439 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/a2b0ac6b-be76-4538-a269-14ea00eadf27.png
+2026-05-21 20:16:37,633 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/a2b0ac6b-be76-4538-a269-14ea00eadf27.png | Status: 200 | Duration: 0.1944s
+2026-05-21 20:16:43,978 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:16:43,987 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0088s
+2026-05-21 20:16:44,069 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/a0e3aace-9dff-4368-903d-58a5faaf6315/david-marcu-78A265wPiO4-unsplash.jpg
+2026-05-21 20:16:44,077 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/a0e3aace-9dff-4368-903d-58a5faaf6315/david-marcu-78A265wPiO4-unsplash.jpg | Status: 200 | Duration: 0.0081s
+2026-05-21 20:16:45,967 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:16:46,477 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5095s
+2026-05-21 20:16:46,481 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16
+2026-05-21 20:16:46,482 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16 | Status: 200 | Duration: 0.0011s
+2026-05-21 20:16:47,628 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16.png
+2026-05-21 20:16:47,633 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16.png | Status: 200 | Duration: 0.0049s
+2026-05-21 20:16:47,637 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/a0e3aace-9dff-4368-903d-58a5faaf6315/david-marcu-78A265wPiO4-unsplash.jpg
+2026-05-21 20:16:47,637 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/a0e3aace-9dff-4368-903d-58a5faaf6315/david-marcu-78A265wPiO4-unsplash.jpg | Status: 200 | Duration: 0.0007s
+2026-05-21 20:16:47,640 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/a0e3aace-9dff-4368-903d-58a5faaf6315/david-marcu-78A265wPiO4-unsplash.jpg
+2026-05-21 20:16:47,873 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/a0e3aace-9dff-4368-903d-58a5faaf6315/david-marcu-78A265wPiO4-unsplash.jpg | Status: 200 | Duration: 0.2331s
+2026-05-21 20:16:51,611 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16.png
+2026-05-21 20:16:51,611 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16.png | Status: 200 | Duration: 0.0006s
+2026-05-21 20:16:51,614 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16.png
+2026-05-21 20:16:51,869 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/a0ae8580-0d4b-4e48-99cc-5f02dbb6bc16.png | Status: 200 | Duration: 0.2555s
+2026-05-21 20:17:04,499 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/upload-url
+2026-05-21 20:17:04,505 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/upload-url | Status: 200 | Duration: 0.0067s
+2026-05-21 20:17:04,571 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/282927ec-b69d-42a4-83e0-6eb486aad36e/IMG20241227102504.jpg
+2026-05-21 20:17:04,578 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/282927ec-b69d-42a4-83e0-6eb486aad36e/IMG20241227102504.jpg | Status: 200 | Duration: 0.0067s
+2026-05-21 20:17:10,732 | INFO | app.middleware.logging_middleware | Incoming Request | POST /img-processing/remove-bg
+2026-05-21 20:17:11,246 | INFO | app.middleware.logging_middleware | Completed Request | POST /img-processing/remove-bg | Status: 200 | Duration: 0.5141s
+2026-05-21 20:17:11,252 | INFO | app.middleware.logging_middleware | Incoming Request | GET /img-processing/job-status/2bc3275f-690b-432f-9bea-2b1d2bd3a21a
+2026-05-21 20:17:11,255 | INFO | app.middleware.logging_middleware | Completed Request | GET /img-processing/job-status/2bc3275f-690b-432f-9bea-2b1d2bd3a21a | Status: 200 | Duration: 0.0025s
+2026-05-21 20:17:12,169 | INFO | app.middleware.logging_middleware | Incoming Request | GET /files/download-url/outputs/2bc3275f-690b-432f-9bea-2b1d2bd3a21a.png
+2026-05-21 20:17:12,183 | INFO | app.middleware.logging_middleware | Completed Request | GET /files/download-url/outputs/2bc3275f-690b-432f-9bea-2b1d2bd3a21a.png | Status: 200 | Duration: 0.014s
+2026-05-21 20:17:12,187 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/282927ec-b69d-42a4-83e0-6eb486aad36e/IMG20241227102504.jpg
+2026-05-21 20:17:12,188 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/282927ec-b69d-42a4-83e0-6eb486aad36e/IMG20241227102504.jpg | Status: 200 | Duration: 0.0006s
+2026-05-21 20:17:12,190 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/282927ec-b69d-42a4-83e0-6eb486aad36e/IMG20241227102504.jpg
+2026-05-21 20:17:12,424 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/282927ec-b69d-42a4-83e0-6eb486aad36e/IMG20241227102504.jpg | Status: 200 | Duration: 0.2343s
+2026-05-21 20:17:16,411 | INFO | app.middleware.logging_middleware | Incoming Request | OPTIONS /files/outputs/2bc3275f-690b-432f-9bea-2b1d2bd3a21a.png
+2026-05-21 20:17:16,412 | INFO | app.middleware.logging_middleware | Completed Request | OPTIONS /files/outputs/2bc3275f-690b-432f-9bea-2b1d2bd3a21a.png | Status: 200 | Duration: 0.0008s
+2026-05-21 20:17:16,415 | INFO | app.middleware.logging_middleware | Incoming Request | DELETE /files/outputs/2bc3275f-690b-432f-9bea-2b1d2bd3a21a.png
+2026-05-21 20:17:16,614 | INFO | app.middleware.logging_middleware | Completed Request | DELETE /files/outputs/2bc3275f-690b-432f-9bea-2b1d2bd3a21a.png | Status: 200 | Duration: 0.1997s

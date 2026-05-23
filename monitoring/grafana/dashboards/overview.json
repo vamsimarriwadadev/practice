@@ -1,0 +1,137 @@
+{
+  "title": "Photo BG Remover Overview",
+  "uid": "photo-bg-remover-overview",
+  "tags": ["photo-bg-remover", "overview"],
+  "schemaVersion": 39,
+  "version": 1,
+  "timezone": "browser",
+  "refresh": "30s",
+  "panels": [
+    {
+      "title": "Backend - Request Rate",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 6, "x": 0, "y": 0 },
+      "targets": [
+        {
+          "expr": "rate(http_requests_total{job=\"backend\"}[5m])",
+          "legendFormat": "{{ method }} {{ path }}"
+        }
+      ]
+    },
+    {
+      "title": "Backend - P95 Latency",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 6, "x": 6, "y": 0 },
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, rate(http_request_duration_seconds_bucket{job=\"backend\"}[5m]))",
+          "legendFormat": "P95"
+        }
+      ]
+    },
+    {
+      "title": "Backend - Error Rate",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 6, "x": 12, "y": 0 },
+      "targets": [
+        {
+          "expr": "rate(http_requests_total{status=~\"5..\"}[5m]) / rate(http_requests_total[5m])",
+          "legendFormat": "error ratio"
+        }
+      ]
+    },
+    {
+      "title": "Active Requests",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 6, "x": 18, "y": 0 },
+      "targets": [
+        {
+          "expr": "http_requests_in_progress{job=\"backend\"}",
+          "legendFormat": "active"
+        }
+      ]
+    },
+    {
+      "title": "Worker - Job Completion Rate",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 6, "x": 0, "y": 8 },
+      "targets": [
+        {
+          "expr": "rate(worker_jobs_total{status=\"completed\"}[5m])",
+          "legendFormat": "completed"
+        },
+        {
+          "expr": "rate(worker_jobs_total{status=\"failed\"}[5m])",
+          "legendFormat": "failed"
+        }
+      ]
+    },
+    {
+      "title": "Worker - Job Duration (P50/P95)",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 6, "x": 6, "y": 8 },
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.5, rate(worker_job_duration_seconds_bucket[5m]))",
+          "legendFormat": "P50"
+        },
+        {
+          "expr": "histogram_quantile(0.95, rate(worker_job_duration_seconds_bucket[5m]))",
+          "legendFormat": "P95"
+        }
+      ]
+    },
+    {
+      "title": "Worker - In Progress",
+      "type": "stat",
+      "gridPos": { "h": 8, "w": 6, "x": 12, "y": 8 },
+      "targets": [
+        {
+          "expr": "worker_jobs_in_progress"
+        }
+      ]
+    },
+    {
+      "title": "Job Success / Failure",
+      "type": "piechart",
+      "gridPos": { "h": 8, "w": 6, "x": 18, "y": 8 },
+      "targets": [
+        {
+          "expr": "sum(worker_jobs_total{status=\"completed\"})",
+          "legendFormat": "success"
+        },
+        {
+          "expr": "sum(worker_jobs_total{status=\"failed\"})",
+          "legendFormat": "failed"
+        }
+      ]
+    },
+    {
+      "title": "Service Health",
+      "type": "stat",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 16 },
+      "targets": [
+        {
+          "expr": "up{job=\"backend\"}",
+          "legendFormat": "Backend"
+        },
+        {
+          "expr": "up{job=\"worker\"}",
+          "legendFormat": "Worker"
+        }
+      ]
+    },
+    {
+      "title": "Recent Logs",
+      "type": "logs",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 16 },
+      "targets": [
+        {
+          "expr": "{service=~\".+\"} |= ``",
+          "legendFormat": ""
+        }
+      ],
+      "datasource": "Loki"
+    }
+  ]
+}
