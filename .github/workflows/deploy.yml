@@ -1,0 +1,119 @@
+# .github/workflows/deploy.yml
+#
+# Pipeline: push to main → deploy all Lambdas to Floci → run tests → cleanup
+# Runs on your self-hosted runner (your PC), where Floci is already running.
+
+name: Deploy Lambdas
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+env:
+  AWS_ENDPOINT_URL:        http://localhost:4566
+  AWS_DEFAULT_REGION:      us-east-1
+  AWS_ACCESS_KEY_ID:       test
+  AWS_SECRET_ACCESS_KEY:   test
+  TF_WORKING_DIR:          infrastructure/terraform/environments/dev
+
+jobs:
+  lint:
+    name: Lint & Format Check
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install linting tools
+        run: pip install ruff
+
+      - name: Lint Lambda functions
+        run: ruff check functions/
+
+      - name: Validate Terraform formatting
+        working-directory: ${{ env.TF_WORKING_DIR }}
+        run: terraform fmt -check -recursive
+
+  deploy-and-test:
+    name: Deploy → Test
+    runs-on: self-hosted
+    needs: lint
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────────
+      - uses: actions/checkout@v4
+
+      # ── 2. Start Floci ───────────────────────────────────────────────────────
+      - name: Start Floci
+        run: |
+          docker compose -f docker/docker-compose.yaml up -d
+          echo "Waiting for Floci to be ready..."
+          for i in $(seq 1 15); do
+            if curl -sf http://localhost:4566/_floci/health > /dev/null 2>&1; then
+              echo "✅ Floci is ready"
+              break
+            fi
+            echo "  attempt $i/15 — retrying in 2s"
+            sleep 2
+          done
+
+      # ── 3. Terraform ─────────────────────────────────────────────────────────
+      - name: Set up Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: "1.10.0"
+
+      - name: Terraform Init
+        working-directory: ${{ env.TF_WORKING_DIR }}
+        run: terraform init
+
+      - name: Terraform Validate
+        working-directory: ${{ env.TF_WORKING_DIR }}
+        run: terraform validate
+
+      - name: Terraform Plan
+        working-directory: ${{ env.TF_WORKING_DIR }}
+        run: terraform plan -out=tfplan
+
+      - name: Terraform Apply
+        working-directory: ${{ env.TF_WORKING_DIR }}
+        run: terraform apply -auto-approve tfplan
+
+      - name: Show deployed functions
+        run: |
+          aws lambda list-functions \
+            --endpoint-url http://localhost:4566 \
+            --query 'Functions[*].FunctionName' \
+            --output table
+
+      # ── 4. Integration tests ──────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install test dependencies
+        run: pip install boto3 pytest pytest-cov
+
+      - name: Run integration tests
+        run: |
+          pytest tests/ -v \
+            --tb=short \
+            --cov=functions \
+            --cov-report=term-missing
+
+      # ── 5. Cleanup ────────────────────────────────────────────────────────────
+      - name: Terraform Destroy (cleanup)
+        if: always()
+        working-directory: ${{ env.TF_WORKING_DIR }}
+        run: terraform destroy -auto-approve
+
+      - name: Stop Floci
+        if: always()
+        run: docker compose -f docker/docker-compose.yaml down

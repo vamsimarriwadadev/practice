@@ -1,56 +1,29 @@
-# Python-generated files
+# Python
 __pycache__/
-*.py[oc]
-build/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
 dist/
-wheels/
-*.egg-info
+.pytest_cache/
+.coverage
+htmlcov/
 
-# Virtual environments
-.venv
-# dependencies
-node_modules
-storage
-/.pnp
-.pnp.js
+# Terraform — generated files, never commit these
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+**/.terraform.lock.hcl
+**/builds/         # module zip output directory
+function.zip
+*.zip
 
-# testing
-/coverage
-
-# next.js
-.next
-/out/
-
-# production
-/build
-
-# misc
+# OS
 .DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# env files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# IDEs
-.vscode/
-.idea/
-
-# OS files
 Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

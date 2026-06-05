@@ -1,0 +1,20 @@
+# docker/docker-compose.yaml
+
+services:
+  floci:
+    image: floci/floci:latest
+    container_name: floci
+    ports:
+      - "4566:4566"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    user: root
+    environment:
+      # memory = fast, no persistence (good for CI)
+      # change to hybrid for local dev if you want state across restarts
+      FLOCI_STORAGE_MODE: memory
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4566/_floci/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
